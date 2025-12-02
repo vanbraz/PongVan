@@ -1,2 +1,5 @@
-# PongVan
-Jogo Pong para as Atividades Complementares do curso de gestão de TI - Aluna Vanessa Braz Rodrigues
+Jogo Pong para Atividades Complementares do Curso Superior de Gestão de TI da Faculdade Impacta
+
+Aluna: Vanessa Braz Rodrigues
+
+Preferível utilizar o navegador Mozilla Firefox para rodar o jogo.
